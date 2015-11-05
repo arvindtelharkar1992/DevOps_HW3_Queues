@@ -1,6 +1,12 @@
 Cache, Proxies, Queues
 =========================
 
+### Setup
+Apart from running npm install, an extra dependency for http-proxy is also used in this implementation. It can be added by the following command
+```
+npm install http-proxy
+```
+
 ### Running main.js
  We Run the main.js file by specifying the port number as a command line argument. Hence for running the server on port 3000,
   we run the command
